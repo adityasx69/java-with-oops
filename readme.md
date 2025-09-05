@@ -32,7 +32,7 @@ A simple project to calculate the **area of a rectangle**.
 
 ---
 
-### 🔹 5. MadLibsGame.java (Mini Project 5)
+### 🔹 5. MadLibsGame.java (Mini Project 2)
 A fun **Mad Libs word game**.
 - User enters:
 - Place
