@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-// Today I went to the ___(place)___ and saw a ___(adjective)___ ___(animal)___.  
-// It ___(verb, past tense)___ right in front of me!  
-// Then I ___(verb)___ as fast as I could.
-
-
 class MadLibsGame{
     public static void main(String[] args){
 
