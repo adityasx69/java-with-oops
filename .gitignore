@@ -1,0 +1,181 @@
+# ========================
+# OS SYSTEM FILES
+# ========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.nfs*
+
+# ========================
+# EDITORS & IDEs
+# ========================
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (IntelliJ, PyCharm, Android Studio, etc.)
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+build/
+nbdist/
+.nb-gradle/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+*.swp
+*.swo
+*.un~
+Session.vim
+.netrwhist
+
+# ========================
+# COMPILERS & BUILD FILES
+# ========================
+*.class
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.out
+*.app
+*.ipa
+*.dSYM/
+
+# ========================
+# LANGUAGES & FRAMEWORKS
+# ========================
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python
+.env
+.venv
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Java
+*.jar
+*.war
+*.ear
+*.class
+hs_err_pid*
+
+# C / C++
+*.obj
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.idb
+*.lib
+*.app
+*.out
+*.i*86
+*.x86_64
+*.dSYM/
+*.stackdump
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Rust
+target/
+Cargo.lock
+
+# PHP
+vendor/
+composer.lock
+
+# Ruby
+*.gem
+.bundle/
+vendor/bundle/
+log/
+tmp/
+pkg/
+
+# .NET
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# ========================
+# ENVIRONMENT / SECRETS
+# ========================
+*.env
+.env.*
+*.secret
+*.key
+*.pem
+*.crt
+
+# ========================
+# MISC
+# ========================
+*.bak
+*.tmp
+*.swp
+*.swo
+*.cache
+.cache/
+*.tgz
+*.tar.gz
+*.zip
+*.7z
+*.rar
