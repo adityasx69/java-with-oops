@@ -30,6 +30,24 @@ class operators{
         System.out.println(x);
         x %= y;
         System.out.println(x);
+        System.out.println();
+
+        //Increment Operator
+        System.out.print("Increment Operator: ");
+        int xy = 1;
+
+        xy++;
+
+        System.out.println(xy);
+
+
+        //Decrement Operator
+        System.out.print("Increment Operator: ");
+        int xz = 1;
+
+        xz--;
+
+        System.out.println(xz);
 
     }
 }
