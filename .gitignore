@@ -1,2 +1,12 @@
 .vscode/
 .DS_Store
+.idea/
+*.iml
+
+out/
+target/
+build/
+bin/
+
+*.log
+*.env
